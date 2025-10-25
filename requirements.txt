@@ -1,0 +1,10 @@
+pandas
+numpy
+plotly
+ipywidgets
+seaborn
+matplotlib
+scipy
+tqdm
+pyarrow  # Pour le Parquet
+jupyter  # Pour le notebook

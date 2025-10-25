@@ -1,0 +1,16 @@
+# Fichiers de données (NE JAMAIS COMMITTER)
+data/
+*.parquet
+*.csv
+*.zip
+
+# Fichiers système et cache Python
+__pycache__/
+.ipynb_checkpoints/
+*.DS_Store
+.env
+
+# Fichiers d'environnement
+.venv/
+venv/
+datascience/
